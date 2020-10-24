@@ -713,11 +713,11 @@ footer *{
 }
 
 .inicon.python{
-    background: url("assets/images/python.png") no-repeat center 40px;
+    background: url("assets/images/python.jpg") no-repeat center 40px;
     background-size: 80px auto;
 }
 .inicon.ruby{
-    background: url("assets/images/ruby.png") no-repeat center 40px;
+    background: url("assets/images/ruby.jpg") no-repeat center 40px;
     background-size: 80px auto;
 }
 .inicon.django{
@@ -733,7 +733,7 @@ footer *{
     background: url("assets/images/postgres.png") no-repeat center 40px;
     background-size: 80px auto;
 }
-.inicon.rails{
+.inicon.mongo{
     background: url("assets/images/mongo.jpg") no-repeat center 40px;
     background-size: 80px auto;
 }
