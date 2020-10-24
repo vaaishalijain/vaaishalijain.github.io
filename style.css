@@ -664,6 +664,10 @@ footer *{
     font-weight: 900;
 }
 
+/*--------------------------------------------------------------
+# Navbar
+--------------------------------------------------------------*/
+
 .navbar-color{
     background: rgba(0,0,0,0.7);
 }
@@ -696,6 +700,12 @@ footer *{
     position: relative;
     margin: 0 auto;
 }
+
+.brand-name {
+    color: #ffffff;
+    font-weight: bold;
+}
+
 .inicon{
     position: absolute;
     width: 100%;
